@@ -1,0 +1,81 @@
+html {
+    background-color: lightpink;
+}
+
+.page {
+    background-color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: auto;
+    height: auto;
+}
+
+.title_header {
+    padding: 1%;
+    background-color: white;
+    width: auto;
+    text-align: center;
+    color: pink;
+    border-bottom: 5px lightpink solid;
+}
+
+.title_header h1 {
+    color: lightseagreen;
+    font-size: 48px;
+}
+
+.section_header {
+    text-align: center;
+    font-size: 34px;
+}
+
+.sub_header {
+    text-align: center;
+    font-size: 24px;
+}
+
+.photo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: pink;
+}
+
+#photography_section {
+    display: inline-block;
+    height: auto;
+    width: fit-content;
+}
+
+#photo_description_container {
+    width: 40%;
+    float: right;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border: solid black 5px;
+}
+
+#photo_description {
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+
+#photo_container {
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    align-content: center;
+}
+
+#personal_life_section {
+    margin-top: 10%;
+    width: 50%;
+}
